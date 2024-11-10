@@ -1,16 +1,29 @@
-# keus_food_delivery
+# Keus Food Delivery
 
-A new Flutter project.
+Sample e-commerce app
 
-## Getting Started
+## Release Builds
 
-This project is a starting point for a Flutter application.
+App preview can be checked in Android app or website:
 
-A few resources to get you started if this is your first Flutter project:
+- [Android](https://github.com/skbansal5642/Keus-Food-Delivery/releases/download/v0.0.1/Keus.Food.Delivery.apk)
+- [Web](https://skbansal5642.github.io/Keus-Food-Delivery-Web/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Steps to install the app:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Download the [APK](https://github.com/skbansal5642/Keus-Food-Delivery/releases/download/v0.0.1/Keus.Food.Delivery.apk)
+- Allow permission to File Manager to install from `Unknown Resources`
+- Open the downloaded the file in File Manager.
+- Install the app.
+- If prompt, click on the `Continue Installing Without Scanning`.
+
+
+Steps to see preview on web:
+
+- Open the [URL](https://skbansal5642.github.io/Keus-Food-Delivery-Web/).
+- Right click on the page.
+- Click on `Inspect`.
+- Click on `Toggle Device Toolbar` and select any device.
+
+[Preview Link](https://github.com/skbansal5642/Keus-Food-Delivery/releases/download/v0.0.1/Keus-App-Preview.mp4)
+
