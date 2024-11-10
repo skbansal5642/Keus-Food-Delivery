@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "image": "assets/images/Grilled-Chicken.png",
+        "name": "Poke with chicken",
+        "price": "$47.00",
+        "cal": "325 Kcal"
+    },
+    {
+        "id": "2",
+        "image": "assets/images/Salad2.png",
+        "name": "Salad with radishes, tomatoes and mushrooms",
+        "price": "$27.00",
+        "cal": "125 Kcal"
+    },
+    {
+        "id": "3",
+        "image": "assets/images/Banana.png",
+        "name": "Banana",
+        "price": "$47.00",
+        "cal": "325 Kcal"
+    },
+    {
+        "id": "4",
+        "image": "assets/images/Dessert.png",
+        "name": "Dessert",
+        "price": "$27.00",
+        "cal": "125 Kcal"
+    },
+    {
+        "id": "5",
+        "image": "assets/images/Dessert2.png",
+        "name": "Special Dessert",
+        "price": "$47.00",
+        "cal": "325 Kcal"
+    },
+    {
+        "id": "6",
+        "image": "assets/images/Food-Plate.png",
+        "name": "Food Plate",
+        "price": "$27.00",
+        "cal": "125 Kcal"
+    },
+    {
+        "id": "7",
+        "image": "assets/images/Fruits-Plate.png",
+        "name": "Fruits-Plate",
+        "price": "$47.00",
+        "cal": "325 Kcal"
+    },
+    {
+        "id": "8",
+        "image": "assets/images/Indian-Chutney.png",
+        "name": "Indian Chutney",
+        "price": "$27.00",
+        "cal": "125 Kcal"
+    },
+    {
+        "id": "9",
+        "image": "assets/images/Meat.png",
+        "name": "Meat",
+        "price": "$47.00",
+        "cal": "325 Kcal"
+    },
+    {
+        "id": "10",
+        "image": "assets/images/Sweet-Bowl.png",
+        "name": "Sweet Bowl",
+        "price": "$27.00",
+        "cal": "125 Kcal"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "image": "assets/images/Pizza.png",
+        "title": "Two slices of pizza with delicious salami",
+        "price": "$12.40",
+        "colors": "#DF89FB,#FDE5CD"
+    },
+    {
+        "image": "assets/images/Salad2.png",
+        "title": "Salad with egg, cheese and shrimps",
+        "price": "$9.25",
+        "colors": "#87c7fd,#cacafd"
+    },
+    {
+        "image": "assets/images/Pizza.png",
+        "title": "Two slices of pizza with delicious salami",
+        "price": "$12.40",
+        "colors": "#87c7fd,#cacafd"
+    },
+    {
+        "image": "assets/images/Salad2.png",
+        "title": "Salad with egg, cheese and shrimps",
+        "price": "$9.25",
+        "colors": "#DF89FB,#FDE5CD"
+    }
+]
